@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-style-px-to-vw",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "A plugin for vite that transforms pixel units in style to viewport units.",
   "type": "module",
   "main": "dist/index.mjs",
