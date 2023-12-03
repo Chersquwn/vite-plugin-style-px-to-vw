@@ -2,6 +2,8 @@
 
 > A plugin for vite that transforms pixel units in style to viewport units.
 
+[![Build Status](https://github.com/Chersquwn/vite-plugin-style-px-to-vw/actions/workflows/release.yml/badge.svg)](https://github.com/Chersquwn/vite-plugin-style-px-to-vw/actions?query=workflow%3Arelease+branch%3Amain) [![NPM version](https://img.shields.io/npm/v/vite-plugin-style-px-to-vw.svg)](https://www.npmjs.com/package/vite-plugin-style-px-to-vw)
+
 English | [中文](README_CN.md) 
 
 ## Getting Started

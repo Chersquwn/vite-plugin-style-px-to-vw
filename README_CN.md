@@ -2,6 +2,8 @@
 
 > 一个用于将行内样式中的像素单位转换为视口单位的vite插件。
 
+[![Build Status](https://github.com/Chersquwn/vite-plugin-style-px-to-vw/actions/workflows/release.yml/badge.svg)](https://github.com/Chersquwn/vite-plugin-style-px-to-vw/actions?query=workflow%3Arelease+branch%3Amain) [![NPM version](https://img.shields.io/npm/v/vite-plugin-style-px-to-vw.svg)](https://www.npmjs.com/package/vite-plugin-style-px-to-vw)
+
 [English](README.md) | 中文
 
 ## 开始
